@@ -1,0 +1,18 @@
+# 日志文件存储路径
+logging:
+  path: /home/zkfadmin/app/wx_chatbot/logs/
+  file: /home/zkfadmin/app/wx_chatbot/logs/zkf-wx-chatbot
+
+# 测试的webhook地址
+InfoCenterWebhook_Url: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=7c9787d7-1872-47ba-a71a-6cd42acc7ef
+
+#管理组测试的webhook地址
+InfoManageWebhook_Url: https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=7c9787d7-1872-47ba-a71a-6cdd9823c7f
+
+
+#企业微信-企业Id(重要)
+ZKF_corpid: devZKF_corpid
+#企业微信-通讯录凭证密钥(重要)
+ZKF_txl_secret: devZKF_txl_secret
+#企业微信-打卡凭证密钥(重要)
+ZKF_dk_secret: devZKF_dk_secret
