@@ -50,7 +50,7 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<scope>test</scope>
-			<version>4.12</version><!--$NO-MVN-MAN-VER$ -->
+			<version>4.13.1</version><!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 		<dependency>
 			<groupId>commons-io</groupId>
